@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "type": "robot",
+            "attributes": {
+                "color": "",
+                "label": "",
+                "position": [],
+                "operation": [],
+                "state": ""
+            }
+        },
+        {
+            "id": 1,
+            "type": "large_object",
+            "attributes": {
+                "color": "white",
+                "label": "side table",
+                "position": [],
+                "operation": [
+                    "place_to",
+                    "longitudinal_open",
+                    "longitudinal_close"
+                ],
+                "state": "longitudinal_open"
+            }
+        },
+        {
+            "id": 2,
+            "type": "small_object",
+            "attributes": {
+                "color": "white",
+                "label": "pencil",
+                "position": [],
+                "operation": [
+                    "pick"
+                ],
+                "state": ""
+            }
+        },
+        {
+            "id": 3,
+            "type": "room",
+            "attributes": {
+                "color": "",
+                "label": "house office",
+                "position": [],
+                "operation": [],
+                "state": ""
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": 0,
+            "type": "near",
+            "source": 1,
+            "target": 0,
+            "attributes": {
+                "label": ""
+            }
+        },
+        {
+            "id": 1,
+            "type": "grasp",
+            "source": 0,
+            "target": 2,
+            "attributes": {
+                "label": ""
+            }
+        },
+        {
+            "id": 2,
+            "type": "in",
+            "source": 0,
+            "target": 3,
+            "attributes": {
+                "label": ""
+            }
+        },
+        {
+            "id": 3,
+            "type": "in",
+            "source": 1,
+            "target": 3,
+            "attributes": {
+                "label": ""
+            }
+        }
+    ]
+}

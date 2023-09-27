@@ -1,0 +1,1149 @@
+{
+    "commands": [
+        {
+            "id": 0,
+            "type": "move_place_to_finish",
+            "low": [
+                "move freestanding rack 12",
+                "place_to freestanding rack 12",
+                "finish floor 0"
+            ],
+            "high": "Your goal is to get the object to the pink freestanding rack."
+        },
+        {
+            "id": 1,
+            "type": "move_place_to_finish",
+            "low": [
+                "move bookcase 8",
+                "place_to bookcase 8",
+                "finish floor 0"
+            ],
+            "high": "Please proceed to the blue bookcase with the object."
+        },
+        {
+            "id": 2,
+            "type": "move_place_to_finish",
+            "low": [
+                "move file organizer 10",
+                "place_to file organizer 10",
+                "finish floor 0"
+            ],
+            "high": "The task at hand is to move to red file organizer and leave the object there."
+        },
+        {
+            "id": 3,
+            "type": "move_place_to_finish",
+            "low": [
+                "move desk 37",
+                "place_to desk 37",
+                "finish floor 0"
+            ],
+            "high": "Your mission is to move to purple desk and deposit the object."
+        },
+        {
+            "id": 4,
+            "type": "move_place_to_finish",
+            "low": [
+                "move box 34",
+                "place_to box 34",
+                "finish floor 0"
+            ],
+            "high": "Could you transport the object to brown box?"
+        },
+        {
+            "id": 5,
+            "type": "move_place_to_finish",
+            "low": [
+                "move basket 13",
+                "place_to basket 13",
+                "finish floor 0"
+            ],
+            "high": "Shift the object to the green basket."
+        },
+        {
+            "id": 6,
+            "type": "move_place_to_finish",
+            "low": [
+                "move bar stool 23",
+                "place_to bar stool 23",
+                "finish floor 0"
+            ],
+            "high": "You need to head over to white bar stool and place the object there."
+        },
+        {
+            "id": 7,
+            "type": "move_place_to_finish",
+            "low": [
+                "move bench 27",
+                "place_to bench 27",
+                "finish floor 0"
+            ],
+            "high": "We need to move the object to the red bench."
+        },
+        {
+            "id": 8,
+            "type": "pick_place_to_finish",
+            "low": [
+                "pick coin 50",
+                "place_to coffee table 17",
+                "finish floor 0"
+            ],
+            "high": "Hoist the white coin and place it on brown coffee table."
+        },
+        {
+            "id": 9,
+            "type": "pick_place_to_finish",
+            "low": [
+                "pick watch 48",
+                "place_to washstand 6",
+                "finish floor 0"
+            ],
+            "high": "I need you to pick up the blue watch and place it onto brown washstand."
+        },
+        {
+            "id": 10,
+            "type": "pick_place_to_finish",
+            "low": [
+                "pick coin 50",
+                "place_to coffee table 17",
+                "finish floor 0"
+            ],
+            "high": "Please obtain the white coin and put it onto brown coffee table."
+        },
+        {
+            "id": 11,
+            "type": "pick_place_to_finish",
+            "low": [
+                "pick coin 50",
+                "place_to bean bag 32",
+                "finish floor 0"
+            ],
+            "high": "Get the white coin and situate it on red bean bag."
+        },
+        {
+            "id": 12,
+            "type": "pick_place_to_finish",
+            "low": [
+                "pick pineapple 49",
+                "place_to tv stand 16",
+                "finish floor 0"
+            ],
+            "high": "Procure the yellow pineapple and place it at black tv stand."
+        },
+        {
+            "id": 13,
+            "type": "pick_place_to_finish",
+            "low": [
+                "pick book 43",
+                "place_to windowsill 36",
+                "finish floor 0"
+            ],
+            "high": "Grab the red book and relocate it to brown windowsill."
+        },
+        {
+            "id": 14,
+            "type": "pick_place_to_finish",
+            "low": [
+                "pick pineapple 49",
+                "place_to tv stand 16",
+                "finish floor 0"
+            ],
+            "high": "Hitch up the yellow pineapple and deposit it onto black tv stand."
+        },
+        {
+            "id": 15,
+            "type": "pick_place_to_finish",
+            "low": [
+                "pick watch 48",
+                "place_to washstand 6",
+                "finish floor 0"
+            ],
+            "high": "Grasp the blue watch and deposit it onto brown washstand."
+        },
+        {
+            "id": 16,
+            "type": "move_pick_finish",
+            "low": [
+                "move pen 46",
+                "pick pen 46",
+                "finish floor 0"
+            ],
+            "high": "Please make your way towards brown pen and get the item."
+        },
+        {
+            "id": 17,
+            "type": "move_pick_finish",
+            "low": [
+                "move cherries 44",
+                "pick cherries 44",
+                "finish floor 0"
+            ],
+            "high": "You are to move to red cherries and then pick it up."
+        },
+        {
+            "id": 18,
+            "type": "move_pick_finish",
+            "low": [
+                "move book 43",
+                "pick book 43",
+                "finish floor 0"
+            ],
+            "high": "Would you head towards red book and get the item?"
+        },
+        {
+            "id": 19,
+            "type": "move_pick_finish",
+            "low": [
+                "move raspberries 47",
+                "pick raspberries 47",
+                "finish floor 0"
+            ],
+            "high": "We need you to go to red raspberries and pick it up."
+        },
+        {
+            "id": 20,
+            "type": "move_pick_finish",
+            "low": [
+                "move coin 50",
+                "pick coin 50",
+                "finish floor 0"
+            ],
+            "high": "Your job is to go to white coin and pick up the item."
+        },
+        {
+            "id": 21,
+            "type": "move_pick_finish",
+            "low": [
+                "move watch 48",
+                "pick watch 48",
+                "finish floor 0"
+            ],
+            "high": "We'd like you to head towards blue watch and get it."
+        },
+        {
+            "id": 22,
+            "type": "move_pick_finish",
+            "low": [
+                "move pineapple 49",
+                "pick pineapple 49",
+                "finish floor 0"
+            ],
+            "high": "Kindly advance towards yellow pineapple and grab it."
+        },
+        {
+            "id": 23,
+            "type": "move_pick_finish",
+            "low": [
+                "move pear 45",
+                "pick pear 45",
+                "finish floor 0"
+            ],
+            "high": "You are instructed to navigate to green pear and collect it."
+        },
+        {
+            "id": 24,
+            "type": "move_pick_place_to_finish",
+            "low": [
+                "move pineapple 49",
+                "pick pineapple 49",
+                "place_to coffee table 17",
+                "finish floor 0"
+            ],
+            "high": "Could you move to yellow pineapple, get it, and drop it at brown coffee table?"
+        },
+        {
+            "id": 25,
+            "type": "move_pick_place_to_finish",
+            "low": [
+                "move book 43",
+                "pick book 43",
+                "place_to washstand 6",
+                "finish floor 0"
+            ],
+            "high": "Please walk to red book, collect it, and put it on brown washstand."
+        },
+        {
+            "id": 26,
+            "type": "move_pick_place_to_finish",
+            "low": [
+                "move watch 48",
+                "pick watch 48",
+                "place_to washstand 6",
+                "finish floor 0"
+            ],
+            "high": "Your task is to walk to blue watch, lift it, and put it on brown washstand."
+        },
+        {
+            "id": 27,
+            "type": "move_pick_place_to_finish",
+            "low": [
+                "move watch 48",
+                "pick watch 48",
+                "place_to vanity sink 5",
+                "finish floor 0"
+            ],
+            "high": "Kindly proceed to blue watch, grab it, and drop it at brown vanity sink."
+        },
+        {
+            "id": 28,
+            "type": "move_pick_place_to_finish",
+            "low": [
+                "move book 43",
+                "pick book 43",
+                "place_to washstand 6",
+                "finish floor 0"
+            ],
+            "high": "It's your assignment to travel to red book, pick it up, and transfer it to brown washstand."
+        },
+        {
+            "id": 29,
+            "type": "move_pick_place_to_finish",
+            "low": [
+                "move pineapple 49",
+                "pick pineapple 49",
+                "place_to coffee table 17",
+                "finish floor 0"
+            ],
+            "high": "You're supposed to go to yellow pineapple, retrieve it, and place it at brown coffee table."
+        },
+        {
+            "id": 30,
+            "type": "move_pick_place_to_finish",
+            "low": [
+                "move book 43",
+                "pick book 43",
+                "place_to vanity sink 5",
+                "finish floor 0"
+            ],
+            "high": "Would you travel to red book, get it, and put it on brown vanity sink?"
+        },
+        {
+            "id": 31,
+            "type": "move_pick_place_to_finish",
+            "low": [
+                "move book 43",
+                "pick book 43",
+                "place_to washstand 6",
+                "finish floor 0"
+            ],
+            "high": "Kindly go to red book, pick it up, and move it to brown washstand."
+        },
+        {
+            "id": 32,
+            "type": "pick_move_place_to_finish",
+            "low": [
+                "pick pen 46",
+                "move shelf 41",
+                "place_to shelf 41",
+                "finish floor 0"
+            ],
+            "high": "Please secure the brown pen. After, head over to pink shelf. At your arrival, set it down."
+        },
+        {
+            "id": 33,
+            "type": "pick_move_place_to_finish",
+            "low": [
+                "pick cherries 44",
+                "move coffee table 17",
+                "place_to coffee table 17",
+                "finish floor 0"
+            ],
+            "high": "Acquire the red cherries. Then, traverse to brown coffee table. Upon arrival, put it there."
+        },
+        {
+            "id": 34,
+            "type": "pick_move_place_to_finish",
+            "low": [
+                "pick book 43",
+                "move windowsill 36",
+                "place_to windowsill 36",
+                "finish floor 0"
+            ],
+            "high": "The red book needs to be transported to brown windowsill. Start by picking it up."
+        },
+        {
+            "id": 35,
+            "type": "pick_move_place_to_finish",
+            "low": [
+                "pick raspberries 47",
+                "move display shelves 3",
+                "place_to display shelves 3",
+                "finish floor 0"
+            ],
+            "high": "Acquire the red raspberries. Then, deposit it at the destination, purple display shelves."
+        },
+        {
+            "id": 36,
+            "type": "pick_move_place_to_finish",
+            "low": [
+                "pick coin 50",
+                "move conference table 9",
+                "place_to conference table 9",
+                "finish floor 0"
+            ],
+            "high": "Would you kindly pick up the white coin? When ready, move towards pink conference table. Place it there to finish."
+        },
+        {
+            "id": 37,
+            "type": "pick_move_place_to_finish",
+            "low": [
+                "pick watch 48",
+                "move kitchen island 24",
+                "place_to kitchen island 24",
+                "finish floor 0"
+            ],
+            "high": "Grab the blue watch. The next move is to go to pink kitchen island. On arrival, put it there."
+        },
+        {
+            "id": 38,
+            "type": "pick_move_place_to_finish",
+            "low": [
+                "pick pineapple 49",
+                "move conference table 9",
+                "place_to conference table 9",
+                "finish floor 0"
+            ],
+            "high": "Start by picking up the yellow pineapple. Transport it to its new position at pink conference table."
+        },
+        {
+            "id": 39,
+            "type": "pick_move_place_to_finish",
+            "low": [
+                "pick pear 45",
+                "move display shelves 3",
+                "place_to display shelves 3",
+                "finish floor 0"
+            ],
+            "high": "Start by picking up the green pear. Progress to purple display shelves. When there, leave it."
+        },
+        {
+            "id": 40,
+            "type": "move_pick_place_to_move_finish",
+            "low": [
+                "move watch 48",
+                "pick watch 48",
+                "place_to vanity sink 5",
+                "move coin 50",
+                "finish floor 0"
+            ],
+            "high": "Please make your way to blue watch, get it, then deposit it to brown vanity sink. Once this task is completed, could you move to white coin."
+        },
+        {
+            "id": 41,
+            "type": "pick_move_place_to_move_finish",
+            "low": [
+                "pick pen 46",
+                "move coffee table 17",
+                "place_to coffee table 17",
+                "move conference table 9",
+                "finish floor 0"
+            ],
+            "high": "Please pick up the brown pen, move to brown coffee table, place it there, then proceed to pink conference table."
+        },
+        {
+            "id": 42,
+            "type": "pick_move_place_to_move_finish",
+            "low": [
+                "pick cherries 44",
+                "move bean bag 32",
+                "place_to bean bag 32",
+                "move windowsill 36",
+                "finish floor 0"
+            ],
+            "high": "I need you to pick up the red cherries, move it to red bean bag, place it there, then move to brown windowsill."
+        },
+        {
+            "id": 43,
+            "type": "pick_move_place_to_move_finish",
+            "low": [
+                "pick book 43",
+                "move dining table 2",
+                "place_to dining table 2",
+                "move rack 42",
+                "finish floor 0"
+            ],
+            "high": "Could you pick up the red book, take it to black dining table, place it, then go to pink rack?"
+        },
+        {
+            "id": 44,
+            "type": "pick_move_place_to_move_finish",
+            "low": [
+                "pick raspberries 47",
+                "move kitchen island 24",
+                "place_to kitchen island 24",
+                "move conference table 9",
+                "finish floor 0"
+            ],
+            "high": "Please pick up the red raspberries, transport it to pink kitchen island, place it there, then head to pink conference table."
+        },
+        {
+            "id": 45,
+            "type": "pick_move_place_to_move_finish",
+            "low": [
+                "pick coin 50",
+                "move dressing table 20",
+                "place_to dressing table 20",
+                "move ottoman 31",
+                "finish floor 0"
+            ],
+            "high": "Can you pick up the white coin, take it to blue dressing table, deposit it, then go to green ottoman?"
+        },
+        {
+            "id": 46,
+            "type": "pick_move_place_to_move_finish",
+            "low": [
+                "pick watch 48",
+                "move freestanding rack 12",
+                "place_to freestanding rack 12",
+                "move rack 42",
+                "finish floor 0"
+            ],
+            "high": "Start by picking up the blue watch, transport it to pink freestanding rack, place it there, then head to pink rack."
+        },
+        {
+            "id": 47,
+            "type": "pick_move_place_to_move_finish",
+            "low": [
+                "pick pineapple 49",
+                "move display shelves 3",
+                "place_to display shelves 3",
+                "move ottoman 31",
+                "finish floor 0"
+            ],
+            "high": "Please pick up the yellow pineapple, take it to purple display shelves, place it there, then move to green ottoman."
+        },
+        {
+            "id": 48,
+            "type": "pick_move_place_to_move_finish",
+            "low": [
+                "pick pear 45",
+                "move dressing table 20",
+                "place_to dressing table 20",
+                "move freestanding rack 12",
+                "finish floor 0"
+            ],
+            "high": "The green pear needs to be picked up, moved to blue dressing table, placed there, then go to pink freestanding rack."
+        },
+        {
+            "id": 49,
+            "type": "place_to_move_pick_move_place_to_finish",
+            "low": [
+                "place_to bookcase 8",
+                "move pen 46",
+                "pick pen 46",
+                "move bed 19",
+                "place_to bed 19",
+                "finish floor 0"
+            ],
+            "high": "Can you put the object at blue bookcase first? After that, travel to brown pen, grab it. In the end, transport it to green bed, and deposit it there?"
+        },
+        {
+            "id": 50,
+            "type": "place_to_move_pick_move_place_to_finish",
+            "low": [
+                "place_to bar stool 23",
+                "move cherries 44",
+                "pick cherries 44",
+                "move dressing table 20",
+                "place_to dressing table 20",
+                "finish floor 0"
+            ],
+            "high": "Your task is to set the object at white bar stool. Next, go to red cherries and pick it up. After that, carry it to blue dressing table, and place it there."
+        },
+        {
+            "id": 51,
+            "type": "place_to_move_pick_move_place_to_finish",
+            "low": [
+                "place_to tv stand 16",
+                "move book 43",
+                "pick book 43",
+                "move vanity sink 5",
+                "place_to vanity sink 5",
+                "finish floor 0"
+            ],
+            "high": "Could you place the object at black tv stand first? After that, go to red book and collect it. Lastly, bring it to brown vanity sink, and deposit it there?"
+        },
+        {
+            "id": 52,
+            "type": "place_to_move_pick_move_place_to_finish",
+            "low": [
+                "place_to kitchen island 24",
+                "move raspberries 47",
+                "pick raspberries 47",
+                "move rack 42",
+                "place_to rack 42",
+                "finish floor 0"
+            ],
+            "high": "Can you put the object at pink kitchen island first? After that, travel to red raspberries, grab it. In the end, transport it to pink rack, and deposit it there?"
+        },
+        {
+            "id": 53,
+            "type": "place_to_move_pick_move_place_to_finish",
+            "low": [
+                "place_to file organizer 10",
+                "move coin 50",
+                "pick coin 50",
+                "move bean bag 32",
+                "place_to bean bag 32",
+                "finish floor 0"
+            ],
+            "high": "You're tasked to put the object at red file organizer. Next, move to white coin and collect it. Then, shift it to red bean bag, and deposit it there."
+        },
+        {
+            "id": 54,
+            "type": "place_to_move_pick_move_place_to_finish",
+            "low": [
+                "place_to bar stool 23",
+                "move watch 48",
+                "pick watch 48",
+                "move vanity sink 5",
+                "place_to vanity sink 5",
+                "finish floor 0"
+            ],
+            "high": "You are to position the object at white bar stool. Then, move to blue watch and pick it up. Finally, shift it to brown vanity sink, and leave it there."
+        },
+        {
+            "id": 55,
+            "type": "place_to_move_pick_move_place_to_finish",
+            "low": [
+                "place_to bean bag 32",
+                "move pineapple 49",
+                "pick pineapple 49",
+                "move chair 40",
+                "place_to chair 40",
+                "finish floor 0"
+            ],
+            "high": "Put the object at red bean bag. Then go to yellow pineapple and pick it up. At the end, go to pink chair and put it there."
+        },
+        {
+            "id": 56,
+            "type": "place_to_move_pick_move_place_to_finish",
+            "low": [
+                "place_to bean bag 32",
+                "move pear 45",
+                "pick pear 45",
+                "move bookcase 8",
+                "place_to bookcase 8",
+                "finish floor 0"
+            ],
+            "high": "Can you put the object at red bean bag? Then go to green pear and grab it. In the end, move to blue bookcase and leave it there?"
+        },
+        {
+            "id": 57,
+            "type": "pick_move_place_to_move_pick_finish",
+            "low": [
+                "pick pen 46",
+                "move washstand 6",
+                "place_to washstand 6",
+                "move cherries 44",
+                "pick cherries 44",
+                "finish floor 0"
+            ],
+            "high": "Can you pick up the brown pen, transport it to brown washstand, deposit it there, and then move forward to red cherries?"
+        },
+        {
+            "id": 58,
+            "type": "pick_move_place_to_move_pick_finish",
+            "low": [
+                "pick cherries 44",
+                "move console table 25",
+                "place_to console table 25",
+                "move book 43",
+                "pick book 43",
+                "finish floor 0"
+            ],
+            "high": "I need you to pick up the red cherries, transport it to yellow console table, deposit it there, and then continue to red book."
+        },
+        {
+            "id": 59,
+            "type": "pick_move_place_to_move_pick_finish",
+            "low": [
+                "pick book 43",
+                "move tv stand 16",
+                "place_to tv stand 16",
+                "move raspberries 47",
+                "pick raspberries 47",
+                "finish floor 0"
+            ],
+            "high": "Please pick up the red book, take it to black tv stand, place it there, and then move forward to red raspberries."
+        },
+        {
+            "id": 60,
+            "type": "pick_move_place_to_move_pick_finish",
+            "low": [
+                "pick raspberries 47",
+                "move file organizer 10",
+                "place_to file organizer 10",
+                "move coin 50",
+                "pick coin 50",
+                "finish floor 0"
+            ],
+            "high": "Start by picking up the red raspberries, move to red file organizer, deposit it there, and then proceed to white coin."
+        },
+        {
+            "id": 61,
+            "type": "pick_move_place_to_move_pick_finish",
+            "low": [
+                "pick coin 50",
+                "move washstand 6",
+                "place_to washstand 6",
+                "move watch 48",
+                "pick watch 48",
+                "finish floor 0"
+            ],
+            "high": "The white coin needs to be picked up, moved to brown washstand, left there, and then advance to blue watch."
+        },
+        {
+            "id": 62,
+            "type": "pick_move_place_to_move_pick_finish",
+            "low": [
+                "pick watch 48",
+                "move file organizer 10",
+                "place_to file organizer 10",
+                "move pineapple 49",
+                "pick pineapple 49",
+                "finish floor 0"
+            ],
+            "high": "Can you begin with picking up the blue watch, move to red file organizer, place it there, and then move on to yellow pineapple?"
+        },
+        {
+            "id": 63,
+            "type": "pick_move_place_to_move_pick_finish",
+            "low": [
+                "pick pineapple 49",
+                "move windowsill 36",
+                "place_to windowsill 36",
+                "move pear 45",
+                "pick pear 45",
+                "finish floor 0"
+            ],
+            "high": "Pick up the yellow pineapple, transport it to brown windowsill, deposit it there, and then continue to green pear."
+        },
+        {
+            "id": 64,
+            "type": "move_LongOpen_place_to_LongClose_finish",
+            "low": [
+                "move dresser 38",
+                "LongOpen dresser 38",
+                "place_to dresser 38",
+                "LongClose dresser 38",
+                "finish floor 0"
+            ],
+            "high": "Please make your way to yellow dresser, open it, position the object inside, and then close it carefully."
+        },
+        {
+            "id": 65,
+            "type": "move_LongOpen_place_to_LongClose_finish",
+            "low": [
+                "move side table 35",
+                "LongOpen side table 35",
+                "place_to side table 35",
+                "LongClose side table 35",
+                "finish floor 0"
+            ],
+            "high": "Can you get to purple side table, open it to accommodate the object, and ensure it's closed afterward?"
+        },
+        {
+            "id": 66,
+            "type": "move_LongOpen_place_to_LongClose_finish",
+            "low": [
+                "move side table 35",
+                "LongOpen side table 35",
+                "place_to side table 35",
+                "LongClose side table 35",
+                "finish floor 0"
+            ],
+            "high": "Please find your way to purple side table, open it to put the object inside, and close it after."
+        },
+        {
+            "id": 67,
+            "type": "move_LongOpen_place_to_LongClose_finish",
+            "low": [
+                "move toolbox 28",
+                "LongOpen toolbox 28",
+                "place_to toolbox 28",
+                "LongClose toolbox 28",
+                "finish floor 0"
+            ],
+            "high": "You'll need to reach red toolbox, open it, place the object within, and secure it shut."
+        },
+        {
+            "id": 68,
+            "type": "move_LongOpen_place_to_LongClose_finish",
+            "low": [
+                "move dresser 38",
+                "LongOpen dresser 38",
+                "place_to dresser 38",
+                "LongClose dresser 38",
+                "finish floor 0"
+            ],
+            "high": "Could you kindly venture to yellow dresser, open it, place the object within, and then shut it?"
+        },
+        {
+            "id": 69,
+            "type": "move_LongOpen_place_to_LongClose_finish",
+            "low": [
+                "move drawer 26",
+                "LongOpen drawer 26",
+                "place_to drawer 26",
+                "LongClose drawer 26",
+                "finish floor 0"
+            ],
+            "high": "Journey to blue drawer, open it, position the object within, and then make sure to seal it."
+        },
+        {
+            "id": 70,
+            "type": "move_LongOpen_place_to_LongClose_finish",
+            "low": [
+                "move side table 35",
+                "LongOpen side table 35",
+                "place_to side table 35",
+                "LongClose side table 35",
+                "finish floor 0"
+            ],
+            "high": "Please approach purple side table, open it, put the object inside, and then close it tight."
+        },
+        {
+            "id": 71,
+            "type": "move_LongOpen_place_to_LongClose_finish",
+            "low": [
+                "move side table 35",
+                "LongOpen side table 35",
+                "place_to side table 35",
+                "LongClose side table 35",
+                "finish floor 0"
+            ],
+            "high": "Your task is to head to purple side table, open it, place the object within, and then close it."
+        },
+        {
+            "id": 72,
+            "type": "move_LongOpen_place_to_LongClose_move_finish",
+            "low": [
+                "move side table 35",
+                "LongOpen side table 35",
+                "place_to side table 35",
+                "LongClose side table 35",
+                "move windowsill 36",
+                "finish floor 0"
+            ],
+            "high": "Please head to purple side table, open it, place the object inside, close it, then proceed to brown windowsill."
+        },
+        {
+            "id": 73,
+            "type": "move_LongOpen_place_to_LongClose_move_finish",
+            "low": [
+                "move drawer 26",
+                "LongOpen drawer 26",
+                "place_to drawer 26",
+                "LongClose drawer 26",
+                "move chair 40",
+                "finish floor 0"
+            ],
+            "high": "Your mission is to go to blue drawer, open it, place the object inside, close it, then journey to pink chair."
+        },
+        {
+            "id": 74,
+            "type": "move_LongOpen_place_to_LongClose_move_finish",
+            "low": [
+                "move toolbox 28",
+                "LongOpen toolbox 28",
+                "place_to toolbox 28",
+                "LongClose toolbox 28",
+                "move briefcase 33",
+                "finish floor 0"
+            ],
+            "high": "Could you please move to red toolbox, open it, place the object inside, close it, and then head to red briefcase?"
+        },
+        {
+            "id": 75,
+            "type": "move_LongOpen_place_to_LongClose_move_finish",
+            "low": [
+                "move toolbox 28",
+                "LongOpen toolbox 28",
+                "place_to toolbox 28",
+                "LongClose toolbox 28",
+                "move bar stool 23",
+                "finish floor 0"
+            ],
+            "high": "Could you please move to red toolbox, open it, place the object inside, close it, and then head to white bar stool?"
+        },
+        {
+            "id": 76,
+            "type": "move_LongOpen_place_to_LongClose_move_finish",
+            "low": [
+                "move dresser 38",
+                "LongOpen dresser 38",
+                "place_to dresser 38",
+                "LongClose dresser 38",
+                "move chair 40",
+                "finish floor 0"
+            ],
+            "high": "Your objective is to get to yellow dresser, open it, insert the object, seal it, then go to pink chair."
+        },
+        {
+            "id": 77,
+            "type": "move_LongOpen_place_to_LongClose_move_finish",
+            "low": [
+                "move toolbox 28",
+                "LongOpen toolbox 28",
+                "place_to toolbox 28",
+                "LongClose toolbox 28",
+                "move kitchen island 24",
+                "finish floor 0"
+            ],
+            "high": "Could you travel to red toolbox, open it, insert the object, seal it, and then head towards pink kitchen island?"
+        },
+        {
+            "id": 78,
+            "type": "move_LongOpen_place_to_LongClose_move_finish",
+            "low": [
+                "move side table 35",
+                "LongOpen side table 35",
+                "place_to side table 35",
+                "LongClose side table 35",
+                "move briefcase 33",
+                "finish floor 0"
+            ],
+            "high": "Your task is to go to purple side table, open it, place the object inside, close it, then journey to red briefcase."
+        },
+        {
+            "id": 79,
+            "type": "move_LongOpen_place_to_LongClose_move_finish",
+            "low": [
+                "move dresser 38",
+                "LongOpen dresser 38",
+                "place_to dresser 38",
+                "LongClose dresser 38",
+                "move kitchen island 24",
+                "finish floor 0"
+            ],
+            "high": "Go to yellow dresser, open it, insert the object within, seal it, then make your way towards pink kitchen island."
+        },
+        {
+            "id": 80,
+            "type": "move_RevOpen_pick_RevClose_finish",
+            "low": [
+                "move briefcase 33",
+                "RevOpen briefcase 33",
+                "pick pear 45",
+                "RevClose briefcase 33",
+                "finish floor 0"
+            ],
+            "high": "Please head to red briefcase, open it to access the green pear, pick it up, and close it afterward."
+        },
+        {
+            "id": 81,
+            "type": "move_RevOpen_place_to_RevClose_finish",
+            "low": [
+                "move briefcase 33",
+                "RevOpen briefcase 33",
+                "place_to briefcase 33",
+                "RevClose briefcase 33",
+                "finish floor 0"
+            ],
+            "high": "Your mission is going to red briefcase, opening it, inserting the object, and sealing it again."
+        },
+        {
+            "id": 82,
+            "type": "move_RevOpen_place_to_RevClose_finish",
+            "low": [
+                "move medicine cabinet 39",
+                "RevOpen medicine cabinet 39",
+                "place_to medicine cabinet 39",
+                "RevClose medicine cabinet 39",
+                "finish floor 0"
+            ],
+            "high": "Your mission is to navigate to purple medicine cabinet, open it, situate the object inside, and then close it."
+        },
+        {
+            "id": 83,
+            "type": "move_RevOpen_place_to_RevClose_finish",
+            "low": [
+                "move briefcase 33",
+                "RevOpen briefcase 33",
+                "place_to briefcase 33",
+                "RevClose briefcase 33",
+                "finish floor 0"
+            ],
+            "high": "The task is to move to red briefcase, open it, place the object inside, and ensure it's closed."
+        },
+        {
+            "id": 84,
+            "type": "move_RevOpen_place_to_RevClose_finish",
+            "low": [
+                "move bookcase 8",
+                "RevOpen bookcase 8",
+                "place_to bookcase 8",
+                "RevClose bookcase 8",
+                "finish floor 0"
+            ],
+            "high": "You're to move to blue bookcase, open it to find room for the object, and close it when finished."
+        },
+        {
+            "id": 85,
+            "type": "move_RevOpen_place_to_RevClose_finish",
+            "low": [
+                "move storage cabinet 29",
+                "RevOpen storage cabinet 29",
+                "place_to storage cabinet 29",
+                "RevClose storage cabinet 29",
+                "finish floor 0"
+            ],
+            "high": "Your mission is going to white storage cabinet, opening it, inserting the object, and sealing it again."
+        },
+        {
+            "id": 86,
+            "type": "move_RevOpen_place_to_RevClose_finish",
+            "low": [
+                "move briefcase 33",
+                "RevOpen briefcase 33",
+                "place_to briefcase 33",
+                "RevClose briefcase 33",
+                "finish floor 0"
+            ],
+            "high": "Could you travel to red briefcase, open it, put the object within, and finally shut it?"
+        },
+        {
+            "id": 87,
+            "type": "move_RevOpen_place_to_RevClose_finish",
+            "low": [
+                "move medicine cabinet 39",
+                "RevOpen medicine cabinet 39",
+                "place_to medicine cabinet 39",
+                "RevClose medicine cabinet 39",
+                "finish floor 0"
+            ],
+            "high": "Please go to purple medicine cabinet, open it to receive the object, place it, and then close it."
+        },
+        {
+            "id": 88,
+            "type": "move_RevOpen_place_to_RevClose_finish",
+            "low": [
+                "move bookcase 8",
+                "RevOpen bookcase 8",
+                "place_to bookcase 8",
+                "RevClose bookcase 8",
+                "finish floor 0"
+            ],
+            "high": "Start by going to blue bookcase, opening it, placing the object inside, and closing it back up."
+        },
+        {
+            "id": 89,
+            "type": "move_RevOpen_place_to_RevClose_move_finish",
+            "low": [
+                "move storage cabinet 29",
+                "RevOpen storage cabinet 29",
+                "place_to storage cabinet 29",
+                "RevClose storage cabinet 29",
+                "move bed 19",
+                "finish floor 0"
+            ],
+            "high": "Please navigate to white storage cabinet, open it, place the object within, seal it, then make your way to green bed."
+        },
+        {
+            "id": 90,
+            "type": "move_RevOpen_place_to_RevClose_move_finish",
+            "low": [
+                "move bookcase 8",
+                "RevOpen bookcase 8",
+                "place_to bookcase 8",
+                "RevClose bookcase 8",
+                "move tv stand 16",
+                "finish floor 0"
+            ],
+            "high": "You should first head to blue bookcase, open it, set the object within, seal it, then head to black tv stand."
+        },
+        {
+            "id": 91,
+            "type": "move_RevOpen_place_to_RevClose_move_finish",
+            "low": [
+                "move briefcase 33",
+                "RevOpen briefcase 33",
+                "place_to briefcase 33",
+                "RevClose briefcase 33",
+                "move basket 13",
+                "finish floor 0"
+            ],
+            "high": "Please find your way to red briefcase, open it, insert the object, seal it, then proceed to green basket."
+        },
+        {
+            "id": 92,
+            "type": "move_RevOpen_place_to_RevClose_move_finish",
+            "low": [
+                "move bookcase 8",
+                "RevOpen bookcase 8",
+                "place_to bookcase 8",
+                "RevClose bookcase 8",
+                "move windowsill 36",
+                "finish floor 0"
+            ],
+            "high": "Please advance to blue bookcase, open it, situate the object inside, close it, then on to brown windowsill."
+        },
+        {
+            "id": 93,
+            "type": "move_RevOpen_place_to_RevClose_move_finish",
+            "low": [
+                "move briefcase 33",
+                "RevOpen briefcase 33",
+                "place_to briefcase 33",
+                "RevClose briefcase 33",
+                "move vanity sink 5",
+                "finish floor 0"
+            ],
+            "high": "First, proceed to red briefcase, open it, deposit the object, shut it, then continue to brown vanity sink."
+        },
+        {
+            "id": 94,
+            "type": "move_RevOpen_place_to_RevClose_move_finish",
+            "low": [
+                "move bookcase 8",
+                "RevOpen bookcase 8",
+                "place_to bookcase 8",
+                "RevClose bookcase 8",
+                "move drawer 26",
+                "finish floor 0"
+            ],
+            "high": "You should first head to blue bookcase, open it, set the object within, seal it, then head to blue drawer."
+        },
+        {
+            "id": 95,
+            "type": "move_RevOpen_place_to_RevClose_move_finish",
+            "low": [
+                "move briefcase 33",
+                "RevOpen briefcase 33",
+                "place_to briefcase 33",
+                "RevClose briefcase 33",
+                "move coffee table 17",
+                "finish floor 0"
+            ],
+            "high": "Your objective is to get to red briefcase, open it, insert the object, seal it, then go to brown coffee table."
+        },
+        {
+            "id": 96,
+            "type": "move_RevOpen_place_to_RevClose_move_finish",
+            "low": [
+                "move bookcase 8",
+                "RevOpen bookcase 8",
+                "place_to bookcase 8",
+                "RevClose bookcase 8",
+                "move chair 40",
+                "finish floor 0"
+            ],
+            "high": "Can you move to blue bookcase, open it, put the object inside, close it, then go to pink chair?"
+        },
+        {
+            "id": 97,
+            "type": "move_RevOpen_pick_RevClose_move_place_to_finish",
+            "low": [
+                "move briefcase 33",
+                "RevOpen briefcase 33",
+                "pick pear 45",
+                "RevClose briefcase 33",
+                "move rack 42",
+                "place_to rack 42",
+                "finish floor 0"
+            ],
+            "high": "Please move to red briefcase, open it, pick up green pear inside, close it, then move to pink rack and place it there."
+        }
+    ]
+}
